@@ -1,4 +1,4 @@
 # Playing-Card-Image-Classification
-![](card.gif)
+![](card2.gif)
 
 ##Goal
