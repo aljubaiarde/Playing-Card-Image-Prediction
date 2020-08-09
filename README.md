@@ -49,3 +49,14 @@ pip install -r requirements.txt
 ├── card2.gif
 └── requirements.txt
 ```
+## To Do
+1. Generate more images in the dataset to get a way more good accuracy.
+2. Deployment of this project.
+3. This project is only based on CNN and Transfer learning, later with the same data I will use YOLO to predict.
+
+## Bug / Feature Request
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/rowhitswami/Indian-Currency-Prediction/issues/new) by including your search query and the expected result.
+
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/rowhitswami/Indian-Currency-Prediction/issues/new). Please include sample queries and their corresponding results.
+## Credits
+- [Google Images Download](https://github.com/hardikvasa/google-images-download) - This project wouldn't have been possible without this tool. It saved my enormous amount of time while collecting the data. A huge shout-out to its creator [Hardik Vasa](https://github.com/hardikvasa).
