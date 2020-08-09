@@ -28,3 +28,24 @@ The Code is written in Python 3.7. If you don't have Python installed you can fi
 ```bash
 pip install -r requirements.txt
 ```
+## Directory Tree 
+
+```
+├── ImageDataGenerator 
+│   ├── ImageDataGenerator.ipynb
+│   ├── info.txt
+├── static
+│   ├── css
+│   │   ├──main.css
+│   ├── js
+│   │   ├──main.js
+├── templates
+│   ├── base.html
+│   ├── index.html
+├── Playnig Card.ipynb
+├── Procfile
+├── READNE.md
+├── app.py
+├── card2.gif
+└── requirements.txt
+```
