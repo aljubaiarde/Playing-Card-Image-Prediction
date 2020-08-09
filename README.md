@@ -3,7 +3,6 @@
 Transfer Learning based Image prediction model which identifies playing card from 52 different classes. 
 
 
-![Screenshot](dataplan.jpg)
 
 
 ## Data
