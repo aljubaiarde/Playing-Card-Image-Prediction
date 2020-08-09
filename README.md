@@ -1,10 +1,10 @@
 # Playing-Card-Image-Classification
-![](card2.gif)
-
-
-
 ## Overview
 Transfer Learning based Image prediction model which identifies playing card from 52 different classes. 
+
+
+![Screenshot](dataplan.jpg)
+
 
 ## Data
 - Manually Collected (Picture captured, Video converted to Image)
@@ -21,6 +21,8 @@ Transfer Learning based Image prediction model which identifies playing card fro
 - Keras
 - Transfer Learning (resnet50, vgg16, vgg19)
 - Pandas
+
+![](card2.gif)
 
 
 ## Installation
@@ -58,6 +60,8 @@ pip install -r requirements.txt
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/aljubaiarde/Playing-Card-Image-Prediction/issues/new) by including your search query and the expected result.
 
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/aljubaiarde/Playing-Card-Image-Prediction/issues/new). Please include sample queries and their corresponding results.
+
+
 ## Credits
 - [Udemy Machine Learning Course](https://www.udemy.com/course/machinelearning) 
 - [Krish Naik](https://www.youtube.com/user/krishnaik06) 
