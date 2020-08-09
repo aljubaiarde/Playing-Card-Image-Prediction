@@ -55,8 +55,10 @@ pip install -r requirements.txt
 3. This project is only based on CNN and Transfer learning, later with the same data I will use YOLO to predict.
 
 ## Bug / Feature Request
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/rowhitswami/Indian-Currency-Prediction/issues/new) by including your search query and the expected result.
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/aljubaiarde/Playing-Card-Image-Prediction/issues/new) by including your search query and the expected result.
 
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/rowhitswami/Indian-Currency-Prediction/issues/new). Please include sample queries and their corresponding results.
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/aljubaiarde/Playing-Card-Image-Prediction/issues/new). Please include sample queries and their corresponding results.
 ## Credits
-- [Google Images Download](https://github.com/hardikvasa/google-images-download) - This project wouldn't have been possible without this tool. It saved my enormous amount of time while collecting the data. A huge shout-out to its creator [Hardik Vasa](https://github.com/hardikvasa).
+- [Udemy Machine Learning Course](https://www.udemy.com/course/machinelearning) 
+- [Krish Naik](https://www.youtube.com/user/krishnaik06) 
+
